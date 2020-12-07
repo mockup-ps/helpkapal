@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d42986c6d4aae34603a8e141383b2edb",
+    "revision": "92f248b19f072a3b757559cfe2b20cf2",
     "url": "/helpkapal/index.html"
   },
   {
@@ -236,8 +236,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helpkapal/static/js/5.3495060f.chunk.js"
   },
   {
-    "revision": "c8d5c0392348f0429591",
-    "url": "/helpkapal/static/js/50.0793ccab.chunk.js"
+    "revision": "e40e15466462f3c44e12",
+    "url": "/helpkapal/static/js/50.6e4b9194.chunk.js"
   },
   {
     "revision": "ba9d5020145ab7806251",
@@ -284,8 +284,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helpkapal/static/js/main.6513613e.chunk.js"
   },
   {
-    "revision": "a020c1e9184146ce15b4",
-    "url": "/helpkapal/static/js/runtime-main.9bf33f9a.js"
+    "revision": "74a37303e2a1ab13382a",
+    "url": "/helpkapal/static/js/runtime-main.5b8c2713.js"
   },
   {
     "revision": "14b2cef2cbf8201037d203079e5eac7e",
