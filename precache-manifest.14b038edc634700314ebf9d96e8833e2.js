@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2aa8eb84fbf63ff169adbdc64667d3f",
+    "revision": "a7cc834cbafd83186e3da9e60381a818",
     "url": "/helpkapal/index.html"
   },
   {
-    "revision": "52ed3a7392b7e288611e",
+    "revision": "e8c8898b15a000b5516a",
     "url": "/helpkapal/static/css/10.b26df3bb.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helpkapal/static/css/8.e43fe4ef.chunk.css"
   },
   {
-    "revision": "6dee12eb29e1c3d20d6d",
+    "revision": "9858bdeb736ccbe6f743",
     "url": "/helpkapal/static/css/9.b26df3bb.chunk.css"
   },
   {
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helpkapal/static/js/1.da968d14.chunk.js"
   },
   {
-    "revision": "52ed3a7392b7e288611e",
-    "url": "/helpkapal/static/js/10.df7d8b5c.chunk.js"
+    "revision": "e8c8898b15a000b5516a",
+    "url": "/helpkapal/static/js/10.e62c0af0.chunk.js"
   },
   {
     "revision": "38487b289cf912da7da54dc76ef1724a",
-    "url": "/helpkapal/static/js/10.df7d8b5c.chunk.js.LICENSE.txt"
+    "url": "/helpkapal/static/js/10.e62c0af0.chunk.js.LICENSE.txt"
   },
   {
     "revision": "06058f5f330ea205dec2",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helpkapal/static/js/14.27f82689.chunk.js"
   },
   {
-    "revision": "694cca867bc6d7ee333e",
-    "url": "/helpkapal/static/js/15.b8b9cb09.chunk.js"
+    "revision": "2613a45ea05f15dd8944",
+    "url": "/helpkapal/static/js/15.ffcc0cae.chunk.js"
   },
   {
     "revision": "c58ca0a808cda6fe5420",
@@ -164,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helpkapal/static/js/33.1eb2044a.chunk.js"
   },
   {
-    "revision": "8b2c9deacac097d107c5",
-    "url": "/helpkapal/static/js/34.0385abb7.chunk.js"
+    "revision": "8b8c384a9569c2d61639",
+    "url": "/helpkapal/static/js/34.259803cc.chunk.js"
   },
   {
     "revision": "51150985f68050169ea5",
@@ -232,16 +232,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helpkapal/static/js/49.ee88b87c.chunk.js"
   },
   {
-    "revision": "8e47c0e82e743fb38a0b",
-    "url": "/helpkapal/static/js/5.3495060f.chunk.js"
+    "revision": "a2b2e55d00755a31e44b",
+    "url": "/helpkapal/static/js/5.29afd4d3.chunk.js"
   },
   {
-    "revision": "e40e15466462f3c44e12",
-    "url": "/helpkapal/static/js/50.6e4b9194.chunk.js"
+    "revision": "f8ba101d6e006f7d7644",
+    "url": "/helpkapal/static/js/50.25ded9d5.chunk.js"
   },
   {
-    "revision": "ba9d5020145ab7806251",
-    "url": "/helpkapal/static/js/51.fc08f93a.chunk.js"
+    "revision": "cfad14af27f24d726265",
+    "url": "/helpkapal/static/js/51.f0f09d40.chunk.js"
   },
   {
     "revision": "4f4fdc3cc0fa86d744bb",
@@ -272,20 +272,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helpkapal/static/js/8.40210f70.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6dee12eb29e1c3d20d6d",
-    "url": "/helpkapal/static/js/9.1ec95070.chunk.js"
+    "revision": "9858bdeb736ccbe6f743",
+    "url": "/helpkapal/static/js/9.c141513d.chunk.js"
   },
   {
     "revision": "38487b289cf912da7da54dc76ef1724a",
-    "url": "/helpkapal/static/js/9.1ec95070.chunk.js.LICENSE.txt"
+    "url": "/helpkapal/static/js/9.c141513d.chunk.js.LICENSE.txt"
   },
   {
     "revision": "216b7c203a2d0c9bc3d1",
     "url": "/helpkapal/static/js/main.6513613e.chunk.js"
   },
   {
-    "revision": "a800f874f84b60798e35",
-    "url": "/helpkapal/static/js/runtime-main.e1514c6e.js"
+    "revision": "86c52179409e3faf8d7e",
+    "url": "/helpkapal/static/js/runtime-main.0da92c17.js"
   },
   {
     "revision": "14b2cef2cbf8201037d203079e5eac7e",
